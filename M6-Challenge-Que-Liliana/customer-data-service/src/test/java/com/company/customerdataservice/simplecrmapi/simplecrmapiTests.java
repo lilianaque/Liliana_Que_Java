@@ -1,0 +1,11 @@
+package com.company.customerdataservice.simplecrmapi;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+public class simplecrmapiTests {
+    @Test
+    void contextLoads() {
+    }
+}
